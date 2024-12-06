@@ -1,0 +1,44 @@
+[
+    {
+        "user": "Facundo",
+        "points": 1900,
+        "minutos": 2,
+        "errores": 0
+    },
+    {
+        "user": "Agustin",
+        "points": 1520,
+        "minutos": 4,
+        "errores": 0
+    },
+    {
+        "user": "Lionel",
+        "points": 1300,
+        "minutos": 2,
+        "errores": 0
+    },
+    {
+        "user": "Thiago",
+        "points": 1200,
+        "minutos": 2,
+        "errores": 0
+    },
+    {
+        "user": "Agus",
+        "points": 639,
+        "minutos": 0,
+        "errores": 63
+    },
+    {
+        "user": "Player",
+        "points": 324,
+        "minutos": 0,
+        "errores": 108
+    },
+    {
+        "user": "facundo",
+        "points": 786,
+        "minutos": 0,
+        "errores": 42
+    }
+]
